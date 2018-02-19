@@ -1,5 +1,6 @@
 # JGDPR
-Java based tooling for the European General Data Protection Regulation (EU) 2016/679
+Java based tooling for the European General Data Protection Regulation GDPR (EU) 2016/679
+GDPR country aliases for France, Italy : RGPD, Germany : DSGVO, Neerlands : AVG 
 
 This is mostly a set of :
 
