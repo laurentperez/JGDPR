@@ -8,6 +8,7 @@ import java.util.UUID;
 /**
  * an Event applied on a {@link eu.jgdpr.assets.GDPRAsset}
  */
+@GDPRRisk
 public interface GDPREvent {
 
     default UUID getId() {
