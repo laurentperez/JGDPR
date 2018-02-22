@@ -6,7 +6,7 @@ import javax.management.relation.RoleStatus;
 /**
  * The Data PRotection Officer
  */
-public class GDPRDPO extends RoleStatus {
+public final class GDPRDPO extends RoleStatus {
 
     // TODO realm, tc spring/shiva sec role
 
