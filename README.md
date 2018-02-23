@@ -1,15 +1,16 @@
 # JGDPR
-Java based tooling for the European General Data Protection Regulation GDPR (EU) 2016/679
-GDPR country aliases for France, Italy : RGPD, Germany : DSGVO, Neerlands : AVG 
+Java based tooling for complying with the European General Data Protection Regulation GDPR (EU) 2016/679
+
+GDPR country aliases for France, Italy are : RGPD, Germany : DSGVO, Neerlands : AVG 
 
 This is mostly a set of :
 
 - annotations
 - interfaces you are free to implement to comply with the regulation
-- utility or abstract classes
-- text or schema based resources (i.e regulation guides or tips, no Powerpoints please, .odt is ok)
+- utility, framework free classes
+- text or schema based resources (i.e regulation implementation guides or tips, no MS Powerpoints or Apple Keynotes please, .odt/.md/any OSS format is ok)
 
 PR are welcome ! Java/Kotlin friendly
 
-This work is **not** endorsed by any EU department, this is a pure collaborative effort
+Note : this work is **not** endorsed by any EU IT department, this is a pure collaborative effort for developers
 
